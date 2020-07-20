@@ -1,6 +1,12 @@
-# my_instgram
+# An Instagram UI
 
-A new Flutter project.
+A small instagram UI demo using flutter::: I don't know flutter best practices yet but yeah, have fun!
+
+
+## Screenshots --> 
+
+
+
 
 ## Getting Started
 
